@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "rectangle:";
+    cout << 100 * 40 << endl;
+    cout << (100 + 40) * 2 << endl;
+
+    return 0;
+}
